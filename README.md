@@ -1,24 +1,22 @@
 # VEHICLE DETECTION
 
-This Sample Project focuses up on vehicles Detection and Counting them using OpenCV library.
-
+This Sample Project focuses upon vehicle Detection and Counting them using the OpenCV library.
 ## Why I use OpenCV 
 
-There are several ways we can use for Vechile Detection and Counting.
- We can use OpenCV alone or even include it with Tensorflow and keras librarys.
+There are several ways we can use for Vehicle Detection and Counting.
+ We can use OpenCV alone or even include it with Tensorflow and Keras library.
 
-Using Tensorflow involves using ANN(Artificial Neural Net) or CNN (Convolution Neural net) Which gives way more accurate model then using OpenCV alone but it tooks a lot of time Preparing dataset images, preprocessing them and training them and then testing again and again while making some changes to increase accuracy. It is a very lenthy process but accurate.
+Using Tensorflow involves using ANN(Artificial Neural Net) or CNN (Convolution Neural net) Which gives a way more accurate model than using OpenCV alone but it took a lot of time Preparing dataset images, preprocessing them and training them, and then testing again and again while making some changes to increase accuracy. It is a very lengthy process but accurate.
 
-We can also use pre trained models which will saves us a lot of time and clames to be much accurate like YOLOv3, YOLOv4, VGG-16 etc.
-But they require GPUs working on your systems otherwise it will work way slower then a sloth (you know sloths write sleeping on trees all day!!).
+We can also use pre-trained models which will save us a lot of time and claims to be much accurate like YOLOv3, YOLOv4, VGG-16, etc.
+But they require GPUs working on your systems otherwise it will work way slower than a sloth (you know sloths write sleeping on trees all day!!).
 
-but there is an other way which requires only OpenCV and it is quick and easy to understand. Thtough OpenCV we can also acess some of the DeepLearning Functionalities with a single line of code.
+but there is another way that requires only OpenCV and it is quick and easy to understand. Through OpenCV, we can also access some of the DeepLearning Functionalities with a single line of code.
 
-The code is breafly explained in Jupyter notebook
-
+The code is briefly explained in Jupyter notebook
 ## Installation
 
-You need to install following libraries
+You need to install the following libraries
 if you are using python
 ```bash
 pip install opencv-python
