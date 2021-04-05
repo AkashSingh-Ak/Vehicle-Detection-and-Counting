@@ -32,7 +32,7 @@ conda install -c conda-forge matplotlib
 conda install -c anaconda numpy
 ```
 ## Output
-![Image of Output](./img/final_result.PNG)
+![Image of Output](./image_result/final_result.PNG)
 
 ## Code
 
